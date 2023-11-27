@@ -1,4 +1,12 @@
 # PP_assignment
+
+Our group consists of :
+1.Sumit(69)
+2.Shreeshailya(30)
+3.Om(36)
+4.Kaustubh(35)
+5.Jayesh(34)
+
 This file contains all the program sources 
 utilised in this project:
 
@@ -29,7 +37,7 @@ https://github.com/Shreeshaiya2121/PP_assignment/blob/main/func_param.cpp
 #############################################################################
 
 
-Sumit Chavan:
+Sumit:
 
 #############################################################################
 
