@@ -37,3 +37,7 @@ Jayesh:
 Here is the video demonstration of the prepared content:
 
 https://github.com/Sumit-Chavan7/PP_assignment/blob/main/5_6280780506598476591.mp4
+
+This ppt gives a brief compilation and overview of variety of different functions offered in cpp:
+
+https://github.com/Sumit-Chavan7/PP_assignment/blob/main/Function.pptx
