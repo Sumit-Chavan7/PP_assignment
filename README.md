@@ -27,3 +27,8 @@ https://github.com/Sumit-Chavan7/PP_assignment/blob/main/Inline_function.cpp
 This program shows how we can use virtual functions in cpp and improve our modularity in code:
 
 https://github.com/Sumit-Chavan7/PP_assignment/blob/main/Virtual%20_function.cpp
+
+Kaustubh:
+This is the notes as a documentation for the functions in cpp:
+
+https://github.com/Sumit-Chavan7/PP_assignment/blob/main/Functions%20_notes.pdf
