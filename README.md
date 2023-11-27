@@ -9,4 +9,4 @@ Shreeshailya:
 https://github.com/Shreeshaiya2121/PP_assignment/tree/main
 
 Sumit Chavan:
-https://github.com/Sumit-Chavan7/PP_assignment/main
+https://github.com/Sumit-Chavan7/PP_assignment
